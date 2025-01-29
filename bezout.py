@@ -1,4 +1,3 @@
-print("hi")
 
 def euclid(a, b):
     A = max(a, b)
